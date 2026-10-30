@@ -1,0 +1,26 @@
+skill,postings_count,pct_of_postings,status
+python,2904,62.3,Have
+sql,2831,60.8,Have
+data analysis,1862,40.0,Have
+communication,1613,34.6,Have
+data visualization,1590,34.1,Have
+machine learning,1425,30.6,Gap
+data science,1167,25.0,Gap
+tableau,1138,24.4,Have
+r,1115,23.9,Gap
+data engineering,1101,23.6,Gap
+spark,996,21.4,Gap
+aws,903,19.4,Gap
+java,866,18.6,Gap
+data warehousing,819,17.6,Gap
+data modeling,762,16.4,Gap
+data analytics,761,16.3,Gap
+hadoop,758,16.3,Gap
+scala,747,16.0,Gap
+snowflake,739,15.9,Gap
+statistics,706,15.2,Gap
+data mining,677,14.5,Gap
+power bi,635,13.6,Have
+business intelligence,600,12.9,Gap
+cloud computing,571,12.3,Gap
+project management,569,12.2,Gap

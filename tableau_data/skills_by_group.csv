@@ -1,0 +1,33 @@
+skill,group,postings_count,group_size,pct_of_group
+cdisc,Not flagged remote,3,4616,0.1
+cdisc,Remote,11,44,25.0
+communication,Not flagged remote,1600,4616,34.7
+communication,Remote,13,44,29.5
+data analysis,Not flagged remote,1843,4616,39.9
+data analysis,Remote,19,44,43.2
+data engineering,Not flagged remote,1084,4616,23.5
+data engineering,Remote,17,44,38.6
+data lineage,Not flagged remote,47,4616,1.0
+data lineage,Remote,13,44,29.5
+data modeling,Not flagged remote,742,4616,16.1
+data modeling,Remote,20,44,45.5
+data science,Not flagged remote,1155,4616,25.0
+data science,Remote,12,44,27.3
+data visualization,Not flagged remote,1577,4616,34.2
+data visualization,Remote,13,44,29.5
+fhir,Not flagged remote,7,4616,0.2
+fhir,Remote,11,44,25.0
+machine learning,Not flagged remote,1418,4616,30.7
+machine learning,Remote,7,44,15.9
+omop,Not flagged remote,3,4616,0.1
+omop,Remote,11,44,25.0
+python,Not flagged remote,2883,4616,62.5
+python,Remote,21,44,47.7
+r,Not flagged remote,1110,4616,24.0
+r,Remote,5,44,11.4
+sql,Not flagged remote,2803,4616,60.7
+sql,Remote,28,44,63.6
+tableau,Not flagged remote,1131,4616,24.5
+tableau,Remote,7,44,15.9
+tsql,Not flagged remote,74,4616,1.6
+tsql,Remote,11,44,25.0

@@ -1,0 +1,26 @@
+skill_a,skill_b,pair_label,postings_together
+python,sql,python + sql,2150
+data analysis,sql,data analysis + sql,1200
+machine learning,python,machine learning + python,1199
+data visualization,sql,data visualization + sql,1178
+data visualization,python,data visualization + python,1084
+python,r,python + r,1067
+communication,sql,communication + sql,1031
+data analysis,python,data analysis + python,1012
+data analysis,data visualization,data analysis + data visualization,987
+communication,python,communication + python,953
+machine learning,sql,machine learning + sql,948
+sql,tableau,sql + tableau,933
+r,sql,r + sql,918
+python,spark,python + spark,909
+data science,python,data science + python,900
+communication,data analysis,communication + data analysis,869
+python,tableau,python + tableau,828
+data engineering,python,data engineering + python,824
+aws,python,aws + python,799
+java,python,java + python,779
+data science,sql,data science + sql,776
+data visualization,tableau,data visualization + tableau,765
+data engineering,sql,data engineering + sql,752
+communication,data visualization,communication + data visualization,744
+spark,sql,spark + sql,714
